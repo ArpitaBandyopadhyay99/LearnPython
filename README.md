@@ -1,2 +1,2 @@
 # LearnPython
-Telusko Learning Python from Udemy
+Udemy Learn Python from Telusko
