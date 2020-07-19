@@ -14,6 +14,10 @@ def division(a, b):
     return a / b
 
 
+def swap(a, b):
+    return b, a
+
+
 print("helloo by default")
 
 if __name__ == '__main__':
